@@ -252,15 +252,14 @@ table.sponsors tr.bronze img {
 }
 
 .name .sponsor-wrapper {
-  width: 220px;
+  width: 250px;
 }
 
 .name .sponsor-name {
-  width: 220px;
-  height: 50px;
+  width: 250px;
+  height: 60px;
   background-color: white;
   color: #B86D6D;
-  line-height: 50px;
 }
 
 img.flag {
